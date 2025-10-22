@@ -1638,15 +1638,15 @@ def render_html_content(
                 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
                 margin: 0; 
                 padding: 16px; 
-                background: #fafafa;
-                color: #333;
+                background: #000000;
+                color: #ffffff;
                 line-height: 1.5;
             }
             
             .container {
                 max-width: 600px;
                 margin: 0 auto;
-                background: white;
+                background: #000000;
                 border-radius: 12px;
                 overflow: hidden;
                 box-shadow: 0 2px 16px rgba(0,0,0,0.06);
