@@ -1870,14 +1870,14 @@ def render_html_content(
             }
             
             .news-title {
-                font-size: 15px;
+                font-size: 18px;
                 line-height: 1.4;
                 color: #1a1a1a;
                 margin: 0;
             }
             
             .news-link {
-                color: #2563eb;
+                color: #ffffff;
                 text-decoration: none;
             }
             
